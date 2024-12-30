@@ -41,8 +41,8 @@ Feel free to fork the repository 🍴, submit issues 🐞, and create pull reque
 
 
 ## 📸 Screenshots 📸
+- Here’s a preview of how the application looks:
 
-Here’s a preview of how the application looks:
 ![Img.png](Img.png)
 
 ## 📄 License 📄
