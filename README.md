@@ -11,10 +11,6 @@ Welcome to My Notes! 🎉 This is a simple To-Do List application built with Pyt
 - Dynamic Background Color 🎨
 - Intuitive UI 🌟
 
-## 📸 Screenshots 📸
-
-Here’s a preview of how the application looks:
-![Img.png](Img.png)
 
 ## 💡 Installation 💡
 
@@ -42,6 +38,12 @@ Launch the app with the following command:
 
 ## 💬 Contributing 💬
 Feel free to fork the repository 🍴, submit issues 🐞, and create pull requests 🔄! Contributions are always welcome! 🙌
+
+
+## 📸 Screenshots 📸
+
+Here’s a preview of how the application looks:
+![Img.png](Img.png)
 
 ## 📄 License 📄
 This project is licensed under the MIT License - see the LICENSE.md file for details. ⚖️
