@@ -14,7 +14,7 @@ Welcome to My Notes! 🎉 This is a simple To-Do List application built with Pyt
 ## 📸 Screenshots 📸
 
 Here’s a preview of how the application looks:
-
+![Img.png](Img.png)
 
 ## 💡 Installation 💡
 
